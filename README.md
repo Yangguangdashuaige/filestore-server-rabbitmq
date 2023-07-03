@@ -26,4 +26,3 @@
 - 阿里云OSS: [文档首页](https://help.aliyun.com/product/31815.html?spm=a2c4g.750001.3.1.47287b13LQI3Ah)
 - gRPC: [官方文档中文版](http://doc.oschina.net/grpc?t=56831)
 - k8s: [中文社区](https://www.kubernetes.org.cn/docs)
-- 我的手记博客 [http://www.imooc.com/u/6198190](http://www.imooc.com/u/6198190)
